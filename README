@@ -10,8 +10,9 @@ Contents
   * original.png	- Original work by Mike Rohde
     (http://www.flickr.com/photos/rohdesign/1402928977/sizes/o/in/photostream/)
   * bc-cant2.xcf	- GIMP project
-  * bc-cant2.png	- Hi-res flattened PNG of graphic.
-  * bc-cant2-webres.png	- Web-res flattened PNG of graphic.
+  * bc-cant2.png	- Hi-res flattened PNG.
+  * bc-cant2-webres.png	- Web-res flattened PNG.
+  * bc-cant2-webres-small - Smaller web-res flattened PNG.
 
 Fonts
 -----
