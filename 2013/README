@@ -1,19 +1,17 @@
 Barcamp Canterbury 2 Artwork
 ============================
 
-This repo contains artwork for BarCamp Canterbury 2.
+This repo contains artwork for BarCamp Canterbury 3 (2013).
 
 Contents
 --------
 
-  * README		- This file
-  * original.png	- Original work by Mike Rohde
-    (http://www.flickr.com/photos/rohdesign/1402928977/sizes/o/in/photostream/)
-  * bc-cant2.xcf	- GIMP project
-  * bc-cant2.png	- Hi-res flattened PNG.
-  * bc-cant2-webres.png	- Web-res flattened PNG.
-  * bc-cant2-webres-small - Smaller web-res flattened PNG.
-  * git add bc-cant2-logo-only.png - Hi-res logo only (no text).
+  * README			- This file
+  * bc-cant3.xcf		- GIMP project
+  * bc-cant3.png		- Hi-res flattened PNG.
+  * bc-cant3-webres.png		- Web-res flattened PNG (1700 wide).
+  * bc-cant3-webres-small	- Smaller web-res flattened PNG (800 wide).
+  * bc-cant3-logo-only.png	- Hi-res logo only (no text).
 
 Fonts
 -----
@@ -21,9 +19,15 @@ Fonts
   * Century Gothic
   * Century Gothic Bold
 
-  
 License
 -------
 
 Attribution-NonCommercial-ShareAlike 2.0
 http://creativecommons.org/licenses/by-nc-sa/2.0/legalcode
+
+This work was based upon work by Mike Rohde:
+(http://www.flickr.com/photos/rohdesign/1402928977/sizes/o/in/photostream/)
+
+You can find the original work in ../2012 too.
+
+We have borrowed this with his permission.
