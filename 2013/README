@@ -12,6 +12,8 @@ Contents
   * bc-cant3-webres.png		- Web-res flattened PNG (1700 wide).
   * bc-cant3-webres-small	- Smaller web-res flattened PNG (800 wide).
   * bc-cant3-logo-only.png	- Hi-res logo only (no text).
+  * bc-cant3-logo-only-alpha.png
+  			- Hi-res logo only with transparent bg (no text).
   * bc-cant3-dated-webres-small.png
 			- Smaller web-res flattened PNG with date (800 wide).
   * bc-cant3-dated-webres.png	- Web-res flattened PNG with date (1700 wide).
