@@ -18,6 +18,8 @@ Contents
 			- Smaller web-res flattened PNG with date (800 wide).
   * bc-cant3-dated-webres.png	- Web-res flattened PNG with date (1700 wide).
   * bc-cant3-dated.png		- Hi-res flattened PNG with date.
+  * bc-cant3-dated-alpha.png	- Hi-res, dated, with transparent background.
+  * bc-cant3-alpha.png		- Hi-res with transparent background.
 
 Fonts
 -----
