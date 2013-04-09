@@ -8,6 +8,7 @@ Contents
 
   * README			- This file
   * bc-cant3.xcf		- GIMP project
+  * bc-cant3-tshirts.xcf	- T-shirt design
 
   Then the following rasters are available in PNG format. Unless otherwise
   stated, the background is white.
@@ -27,6 +28,8 @@ Contents
     * bc-cant3-dated-webres-small.png	- 800 wide.
     * bc-cant3-dated-webres.png		- 1700 wide.
     * bc-cant3-dated-alpha.png		- Hi-res, transparent background.
+    * bc-cant3-tshirts-preview.png	- T-shirt design with mock background.
+    * bc-cant3-tshirts.png		- T-shirt design for printers.
 
 Fonts
 -----
