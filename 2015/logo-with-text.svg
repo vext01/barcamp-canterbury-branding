@@ -10,12 +10,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1039.4607"
+   width="2814.6624"
    height="1011.3964"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="logo.svg"
+   sodipodi:docname="logo-with-text.svg"
    inkscape:export-filename="/home/edd/source/barcamp-canterbury-branding/2014/logo.png"
    inkscape:export-xdpi="33.150002"
    inkscape:export-ydpi="33.150002">
@@ -38,10 +38,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.32367912"
-     inkscape:cx="1055.2974"
-     inkscape:cy="535.77153"
+     inkscape:cx="1055.2975"
+     inkscape:cy="535.77151"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3076"
      showgrid="false"
      inkscape:window-width="1596"
      inkscape:window-height="877"
@@ -55,11 +55,11 @@
      fit-margin-right="50"
      fit-margin-bottom="50">
     <sodipodi:guide
-       position="865.73261,990.87671"
+       position="865.73264,990.87669"
        orientation="279.59789,0"
        id="guide3004" />
     <sodipodi:guide
-       position="1081.8724,848.59381"
+       position="1081.8724,848.59379"
        orientation="0,-553.01682"
        id="guide3006" />
   </sodipodi:namedview>
@@ -106,6 +106,35 @@
              x="-221.02223"
              y="-607.21509">5</tspan></text>
       </g>
+    </g>
+    <g
+       id="g3049"
+       transform="translate(0,70.459899)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3039"
+         y="-421.18933"
+         x="26.274267"
+         style="font-size:300px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Century Gothic;-inkscape-font-specification:Century Gothic"
+         xml:space="preserve"><tspan
+           style="font-size:300px"
+           y="-421.18933"
+           x="26.274267"
+           id="tspan3041"
+           sodipodi:role="line"><tspan
+   id="tspan3043"
+   style="font-size:300px;font-weight:bold;-inkscape-font-specification:Century Gothic Bold">bar</tspan>camp</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3045"
+         y="-206.26984"
+         x="777.98236"
+         style="font-size:180px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Century Gothic;-inkscape-font-specification:Century Gothic"
+         xml:space="preserve"><tspan
+           y="-206.26984"
+           x="777.98236"
+           id="tspan3047"
+           sodipodi:role="line">canterbury</tspan></text>
     </g>
   </g>
 </svg>
